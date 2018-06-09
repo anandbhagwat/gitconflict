@@ -1,8 +1,7 @@
 # gitconflict
-
-
-
+<<<<<<< HEAD
 Hello from Anand Repo
+=======
 Hello From Kunal's Repo
 
-Hello From Anand Again
+>>>>>>> Hello from Kunal' Repo
